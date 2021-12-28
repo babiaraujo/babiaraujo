@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="right" alt="Babi-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202112/338224_KEYHOT4u.png">
+  <img align="right" alt="Babi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/69531157/147520665-f3d591f0-3141-4956-aa13-ee3853e8c170.png">
 </div>
   
   ##
