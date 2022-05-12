@@ -1,6 +1,6 @@
 ### Oi, eu sou a Bárbara 👽
 
-- 🔭 Hoje trabalho como estágiara de desenvolvimento de software na ST IT Cloud
+- 🔭 Hoje trabalho como estágiara prodigio em desenvolvimento de software na dnc.group
 - 🌱 Estudos focados em back-end
 - 😄 Pronomes: ela/dela
 - ☕ Degustadora full time de café
