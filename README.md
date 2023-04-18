@@ -1,6 +1,6 @@
 ### Oi, eu sou a Bárbara 👽
 
-- 🔭 Hoje trabalho como estágiara prodigio em desenvolvimento de software na dnc.group
+- 🔭 Hoje trabalho como Engenheira de Software Pleno na Escola DNC!
 - 🌱 Estudos focados em back-end
 - 😄 Pronomes: ela/dela
 - ☕ Degustadora full time de café
