@@ -7,6 +7,7 @@ Today I work as a tech lead at an edtech. I'm a back-end developer and I really 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="right" alt="Babi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/69531157/147520665-f3d591f0-3141-4956-aa13-ee3853e8c170.png">
