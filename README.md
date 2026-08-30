@@ -1,63 +1,64 @@
-# Bárbara Araújo | Software Engineer 🚀
+# Bárbara Araújo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barbaravivian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbaravivian.araujo@gmail.com)
+**Senior AI Engineer** | Agentic AI & LLM systems in production | AWS Certified Generative AI Developer
 
-> *"Transforming ideas into scalable solutions through clean code and robust architectures"*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/barbaravivian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barbaravivian.araujo@gmail.com)
 
-## About Me
+## About
 
-Software Engineer passionate about technology and innovation, with solid experience in developing scalable applications, data engineering, and cloud solutions implementation. Specialist in creating efficient systems that support growth and high availability.
+I build LLM agents that run in production and survive contact with real users.
+
+My work sits where GenAI stops being a demo: multi-agent orchestration, tool calling and function schemas, prompt and context engineering, guardrails against hallucination and prompt leakage, plus the observability and cost control that keep an agent fleet accountable. I come to it from a data and backend engineering background, which is usually what separates an agent that works in a notebook from one that works at scale.
+
+Currently working on conversational AI agents: designing the orchestration layer, instrumenting quality and token cost, and running root-cause analysis on production incidents across the whole stack.
+
+## What I work on
+
+- **Agentic systems**: multi-agent orchestration, tool/function calling, MCP servers, state machines for conversational flows, human handoff
+- **LLM engineering**: prompt and context engineering, structured output, RAG, evaluation, guardrails, failure-mode analysis
+- **LLMOps**: tracing and observability, quality metrics, token and cost optimization, model routing, regression detection
+- **Data & backend**: event-driven services, ETL and analytics pipelines, data modeling, query optimization
+- **Cloud**: containers, IaC, CI/CD, production monitoring
 
 ## Tech Stack
 
-### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**AI & LLM**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-### **Data Engineering**
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend & APIs**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### **DevOps & Cloud**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-## Areas of Expertise
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-```typescript
-const expertise = {
-  backend: ['RESTful APIs', 'Microservices', 'Event-Driven Architecture'],
-  dataEngineering: ['ETL Pipelines', 'Airflow DAGs', 'dbt Transformations', 'Data Modeling'],
-  machineLearning: ['ML Pipelines', 'Model Deployment', 'Feature Engineering'],
-  cloud: ['Container Orchestration', 'Infrastructure as Code', 'CI/CD'],
-  databases: ['SQL/NoSQL', 'Query Optimization', 'Data Warehousing']
-};
-```
+## Currently exploring
 
-## Continuous Learning
+- Evaluation frameworks for agents (offline evals, LLM-as-judge, regression suites)
+- Long-horizon memory and context management for multi-turn agents
+- Small and local models for cost-sensitive workloads
 
-Always seeking new challenges and emerging technologies. Currently exploring:
-- **Apache Kafka** for real-time data streaming
-- **Event Sourcing** and **CQRS** patterns
-- **MLOps** and ML pipeline automation
-- **Serverless Architecture** with AWS Lambda
-- **Modern Data Stack** (Snowflake, Fivetran, Looker)
+## Let's connect
 
-## Let's Connect & Collaborate
+Open to conversations about agentic architectures, LLM systems in production, and hard technical problems.
 
-I'm always open to discussing new opportunities, innovative projects, and technical challenges!
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=babiaraujo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-*"Code is poetry in motion - every line tells a story, every function solves a problem."*
+[LinkedIn](https://linkedin.com/in/barbaravivian) · [Email](mailto:barbaravivian.araujo@gmail.com)
