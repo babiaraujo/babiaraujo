@@ -51,18 +51,7 @@ Most of this work is measurement first and code second. The fix is usually small
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-## Selected work
-
-| | |
-|---|---|
-| **[project-name](#)** | One line on what it does and what it proved. |
-| **[project-name](#)** | One line on what it does and what it proved. |
-| **[post or talk](#)** | One line on the argument it makes. |
 
 ## Currently exploring
 
 Evaluation harnesses for agents (offline evals, LLM-as-judge, regression suites) · long-horizon memory and context management for multi-turn agents · small and local models for cost-sensitive workloads.
-
-## Elsewhere
-
-[LinkedIn](https://linkedin.com/in/barbaravivian) · [Email](mailto:barbaravivian.araujo@gmail.com)
